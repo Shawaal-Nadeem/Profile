@@ -1,2 +1,0 @@
-# Profile
-Just for Practice
